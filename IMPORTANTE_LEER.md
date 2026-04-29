@@ -52,3 +52,10 @@ Si querés curiosear qué cosas se decidieron en la IA o qué memorias existen, 
 ```bash
 engram tui
 ```
+
+---
+
+## 💬 4. Cómo pedirle a la IA que use la memoria
+Una vez que hayas instalado e importado la memoria (Pasos 1 y 2), para que la IA sepa qué tiene que hacer, pegá este prompt al inicio de un nuevo chat:
+
+> **"Hola. Estoy trabajando en el proyecto Food Store. Por favor, usá tu herramienta de Engram para buscar las memorias relacionadas con este proyecto (buscá por los nombres 'brian-palacios' o 'food-store') y haceme un resumen detallado de lo que se hizo hasta ahora y qué es lo próximo que tenemos que programar según el mapa de cambios."**
