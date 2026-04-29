@@ -9,12 +9,7 @@ Esto significa que todas las decisiones de arquitectura, correcciones de bugs im
 ## 🚀 1. Instalación de Engram
 Para que la memoria funcione en tu computadora local, primero tenés que tener instalado el motor de Engram.
 
-**Si usás macOS o Linux (vía Homebrew):**
-```bash
-brew install gentleman-programming/engram/engram
-```
-
-**O usando Go (Cualquier sistema):**
+**Usando Go (Cualquier sistema):**
 ```bash
 go install github.com/Gentleman-Programming/engram/cmd/engram@latest
 ```
